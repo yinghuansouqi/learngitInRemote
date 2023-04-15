@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-KEYWORD,dwnews
   - DOMAIN-KEYWORD,voa
+  - DOMAIN-KEYWORD,openai
