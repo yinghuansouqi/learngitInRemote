@@ -1,5 +1,5 @@
 payload:
   - IP-CIDR,8.210.155.115/32
   - IP-CIDR,152.70.236.202/32
-  - IP-CIDR,100.11.20.0/24
+  - IP-CIDR,100.11.0.0/16
   - DOMAIN-SUFFIX,gientech.com
