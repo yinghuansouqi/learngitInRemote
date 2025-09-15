@@ -4,3 +4,4 @@ payload:
   - IP-CIDR,100.11.0.0/16
   - DOMAIN-SUFFIX,gientech.com
   - DOMAIN-SUFFIX,seagm.com
+  - IP-CIDR,172.100.1.111/32
