@@ -3,3 +3,4 @@ payload:
   - DOMAIN-KEYWORD,voa
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,getty
+  - DOMAIN-SUFFIX,chatgpt.com
