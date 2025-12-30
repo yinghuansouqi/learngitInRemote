@@ -4,3 +4,4 @@ payload:
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,getty
   - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN,gemini.google.com
